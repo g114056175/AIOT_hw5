@@ -13,7 +13,7 @@
 
 | 工作流全覽 | 表單介面 | 生成結果範例 |
 | :---: | :---: | :---: |
-| ![Workflow Overview](./assets/workflows.png) | ![Form Interface](./assets/form_ui.png) | ![Generated Poster](./assets/result_demo.png) |
+| ![Workflow Overview](.workflows.png) | ![Form Interface](./assets/form_ui.png) | ![Generated Poster](./assets/result_demo.png) |
 
 ---
 
