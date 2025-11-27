@@ -7,6 +7,15 @@
 > **專案起源**：本專案仿照並致敬 [AI学长小林](https://www.youtube.com/watch?v=aXocGiEx-qc) 的 n8n 自動化思路，基於其 [n8nposter.json](https://github.com/soluckysummer/n8n_workflows/blob/main/workflows/n8nposter.json) 進行深度客製化與功能增強。
 
 ---
+## ⚙️ 運行環境 (Environment)
+
+本專案工作流設計於 **本地端 n8n (Local)** 環境運行。
+
+* **n8n 官方來源**: [n8n-io/n8n GitHub Repository](https://github.com/n8n-io/n8n)
+* **啟動方式**:
+  確保電腦已安裝 Node.js (v18+)，在終端機 (Terminal) 輸入以下指令即可啟動：
+
+---
 
 ## 📸 成果展示 (Demo)
 
