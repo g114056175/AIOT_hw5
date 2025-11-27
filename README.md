@@ -10,10 +10,22 @@
 
 ## 📸 成果展示 (Demo)
 
+### ⚙️ 系統介面 (System Interface)
 
-| 工作流全覽 | 表單介面 | 生成結果範例 |
+**1. n8n 工作流全覽**
+![Workflow Overview](workflows.png)
+
+**2. 使用者操作表單** (支援風格選擇、尺寸切換與批次數量)
+<img src="./assets/demo1.png" width="400" alt="Form Interface">
+
+---
+
+### 🖼️ 批次生成實測 (Batch Generation Results)
+以下為設定 **「數量: 3」** 時，系統一次自動生成的 3 張連號圖片 (p1, p2, p3)，每張圖均帶有獨立的隨機種子碼 (Seed)。
+
+| 生成結果 P1 | 生成結果 P2 | 生成結果 P3 |
 | :---: | :---: | :---: |
-| ![Workflow Overview](workflows.png) | ![Form Interface](./assets/demo1.png) | ![Generated Poster](./assets/p1.png) |
+| ![Result 1](./assets/p1.png) | ![Result 2](./assets/p2.png) | ![Result 3](./assets/p3.png) |
 
 ---
 
