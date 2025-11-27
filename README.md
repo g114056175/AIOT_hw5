@@ -39,7 +39,7 @@
 
 1.  **零成本方案 (Cost-Efficiency)**：
     * 移除原版昂貴的 OpenAI DALL-E 3。
-    * 全面改用 **Google Gemini 1.5 Flash** (免費額度) 進行提示詞優化。
+    * 全面改用 **Google Gemini 2.0 Flash** (免費額度) 進行提示詞優化。
     * 改用 **Hugging Face Inference API** 調用 **FLUX.1-dev** 模型 (目前開源界最強文字渲染模型)。
 
 2.  **文字渲染支援 (Text Rendering)**：
